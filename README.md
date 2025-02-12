@@ -62,7 +62,7 @@ Two clustering methods were applied to identify customer segments based on purch
 
         -1 suggests that the data points may have been assigned to the wrong cluster (i.e., they are closer to a different cluster than their own).
         
-- **KMEANS** and **DBSCAN** were not used for demographic segmentation, as both are used for numerical features.  Since demography is a categorical variable, other models will be utilized (TBD). 
+- **KMEANS** and **DBSCAN** were not used for demographic segmentation, as both are used for numerical features.  Since demography is a categorical variable, other models will be utilized in a future version (TBD). 
 
 ## Conclusion
 The clustering analysis reveals distinct customer segments based on purchasing behavior, and these segments can be used to personalize marketing strategies for improving customer satisfaction and increasing sales.
